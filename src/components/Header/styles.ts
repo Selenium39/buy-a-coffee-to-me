@@ -23,8 +23,8 @@ export const HeaderContainer = styled.header`
       padding: 0 1rem;
       
       img {
-        max-width: 120px;
-        height: auto;
+        max-width: 150px;
+        object-fit: contain;
       }
     }
   }
