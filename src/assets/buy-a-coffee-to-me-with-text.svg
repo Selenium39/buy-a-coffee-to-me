@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="100" viewBox="0 0 250 100" fill="none" stroke="#8047F8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 咖啡图标 -->
+  <g transform="translate(25,20) scale(1.6)">
+    <path d="M17 8h1a4 4 0 1 1 0 8h-1"></path>
+    <path d="M3 8h14v9a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4Z"></path>
+    <line x1="6" y1="2" x2="6" y2="4"></line>
+    <line x1="10" y1="2" x2="10" y2="4"></line>
+    <line x1="14" y1="2" x2="14" y2="4"></line>
+  </g>
+  
+  <!-- 文字 -->
+  <text x="70" y="50" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#8047F8">Buy A Coffee To Me</text>
+</svg> 
