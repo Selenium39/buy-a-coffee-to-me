@@ -17,11 +17,25 @@ export const HeaderContainer = styled.header`
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 0 1rem;
+    
+    @media (max-width: 768px) {
+      padding: 0 1rem;
+      
+      img {
+        max-width: 120px;
+        height: auto;
+      }
+    }
   }
   
   nav {
     display: flex;
     gap: 1rem;
+    
+    @media (max-width: 768px) {
+      gap: 0.5rem;
+    }
     
     a {
       color: ${({ theme }) => theme.colors['base-text']};
@@ -29,6 +43,11 @@ export const HeaderContainer = styled.header`
       text-decoration: none;
       position: relative;
       transition: color 0.2s;
+      
+      @media (max-width: 768px) {
+        font-size: 0.875rem;
+        padding: 0.5rem;
+      }
       
       &:hover {
         color: ${({ theme }) => theme.colors['brand-purple']};
@@ -46,6 +65,10 @@ export const HeaderContainer = styled.header`
           width: 100%;
           height: 2px;
           background: ${({ theme }) => theme.colors['brand-purple']};
+          
+          @media (max-width: 768px) {
+            bottom: 0;
+          }
         }
       }
     }
