@@ -22,6 +22,11 @@ export function About() {
                 </a>
               </li>
               <li>
+                <a href="https://fwfw.app" target="_blank" rel="noopener noreferrer">
+                  🌍 https://fwfw.app
+                </a>
+              </li>
+              <li>
                 <a href="https://flowable.me" target="_blank" rel="noopener noreferrer">
                   📚 https://flowable.me
                 </a>
