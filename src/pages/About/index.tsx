@@ -33,7 +33,7 @@ export function About() {
               </li>
               <li>
                 <a href="https://chiikawa-pocket.me" target="_blank" rel="noopener noreferrer">
-                  🎮 https://chiikwa-pocket.me
+                  🎮 https://chiikawa-pocket.me
                 </a>
               </li>
               <li>
