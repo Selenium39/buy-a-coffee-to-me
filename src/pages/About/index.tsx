@@ -27,6 +27,11 @@ export function About() {
                 </a>
               </li>
               <li>
+                <a href="https://llmocr.com" target="_blank" rel="noopener noreferrer">
+                  📄 https://llmocr.com
+                </a>
+              </li>
+              <li>
                 <a href="https://flowable.me" target="_blank" rel="noopener noreferrer">
                   📚 https://flowable.me
                 </a>
