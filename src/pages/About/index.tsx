@@ -32,6 +32,11 @@ export function About() {
                 </a>
               </li>
               <li>
+                <a href="https://getpan.tech" target="_blank" rel="noopener noreferrer">
+                  🔧 https://getpan.tech
+                </a>
+              </li>
+              <li>
                 <a href="https://flowable.me" target="_blank" rel="noopener noreferrer">
                   📚 https://flowable.me
                 </a>
