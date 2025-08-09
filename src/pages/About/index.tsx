@@ -33,7 +33,7 @@ export function About() {
               </li>
               <li>
                 <a href="https://getpan.tech" target="_blank" rel="noopener noreferrer">
-                  🔧 https://getpan.tech
+                  🐮 https://mihoyonb.com
                 </a>
               </li>
               <li>
