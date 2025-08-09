@@ -32,7 +32,7 @@ export function About() {
                 </a>
               </li>
               <li>
-                <a href="https://getpan.tech" target="_blank" rel="noopener noreferrer">
+                <a href="https://mihoyonb.com" target="_blank" rel="noopener noreferrer">
                   🐮 https://mihoyonb.com
                 </a>
               </li>
